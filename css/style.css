@@ -3,12 +3,22 @@ body {
     padding: 0 0;
     font-family: 'Times New Roman', Times, serif;
 }
+h1 {
+    color: lightseagreen;
+}
+h5 {
+    font-size: 12pt;
+    font-weight: 400;
+    color: grey;
+}
 .container {
     width: 100%;
 }
 .songtext {
-    padding-top: 10%;
-    width: 400px;
+    border-top: 2px solid pink;
+    border-bottom: 2px solid pink;
+    margin-top: 10%;
+    width: 460px;
     margin-left: auto;
     margin-right: auto;
 }
