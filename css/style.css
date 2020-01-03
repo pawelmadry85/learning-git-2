@@ -1,0 +1,14 @@
+body {
+    margin: 0 0;
+    padding: 0 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container {
+    width: 100%;
+}
+.songtext {
+    padding-top: 10%;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
