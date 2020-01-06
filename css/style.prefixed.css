@@ -12,6 +12,7 @@ h5 {
     color: grey;
 }
 .container {
+    display: -ms-flexbox;
     display: flex;
     width: 100%;
 }
